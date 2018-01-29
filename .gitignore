@@ -1,5 +1,5 @@
 .idea
-project1/Include
-project1/Lib
-project1/Scripts
-project1/pyvernv.cfg
+/Include/*
+/Lib/*
+/Scripts/*
+/pyvenv.cfg
