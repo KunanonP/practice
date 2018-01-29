@@ -1,4 +1,5 @@
-Include
-Lib
-Scripts
-pyvernv.cfg
+.idea
+/Include
+/Lib
+/Scripts
+/pyvernv.cfg
