@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ZindyBite/Desktop/code/C/project1/library.c
+library.h
+C:/Users/ZindyBite/Desktop/code/C/project1/library.h
+stdio.h
+-
+
+C:/Users/ZindyBite/Desktop/code/C/project1/library.h
+
