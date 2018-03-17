@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZindyBite\Desktop\code\C\project1
+CMAKE_SOURCE_DIR = C:\Users\ZindyBite\Desktop\code\practice\C\project1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/project1.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/project1.dir/flags.make
 
 CMakeFiles/project1.dir/library.c.obj: CMakeFiles/project1.dir/flags.make
 CMakeFiles/project1.dir/library.c.obj: ../library.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/project1.dir/library.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\project1.dir\library.c.obj   -c C:\Users\ZindyBite\Desktop\code\C\project1\library.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/project1.dir/library.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\project1.dir\library.c.obj   -c C:\Users\ZindyBite\Desktop\code\practice\C\project1\library.c
 
 CMakeFiles/project1.dir/library.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/project1.dir/library.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZindyBite\Desktop\code\C\project1\library.c > CMakeFiles\project1.dir\library.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZindyBite\Desktop\code\practice\C\project1\library.c > CMakeFiles\project1.dir\library.c.i
 
 CMakeFiles/project1.dir/library.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/project1.dir/library.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZindyBite\Desktop\code\C\project1\library.c -o CMakeFiles\project1.dir\library.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZindyBite\Desktop\code\practice\C\project1\library.c -o CMakeFiles\project1.dir\library.c.s
 
 CMakeFiles/project1.dir/library.c.obj.requires:
 
@@ -90,7 +90,7 @@ project1_EXTERNAL_OBJECTS =
 libproject1.a: CMakeFiles/project1.dir/library.c.obj
 libproject1.a: CMakeFiles/project1.dir/build.make
 libproject1.a: CMakeFiles/project1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libproject1.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libproject1.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\project1.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\project1.dir\link.txt --verbose=$(VERBOSE)
 
@@ -108,6 +108,6 @@ CMakeFiles/project1.dir/clean:
 .PHONY : CMakeFiles/project1.dir/clean
 
 CMakeFiles/project1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZindyBite\Desktop\code\C\project1 C:\Users\ZindyBite\Desktop\code\C\project1 C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug C:\Users\ZindyBite\Desktop\code\C\project1\cmake-build-debug\CMakeFiles\project1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZindyBite\Desktop\code\practice\C\project1 C:\Users\ZindyBite\Desktop\code\practice\C\project1 C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug C:\Users\ZindyBite\Desktop\code\practice\C\project1\cmake-build-debug\CMakeFiles\project1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/project1.dir/depend
 

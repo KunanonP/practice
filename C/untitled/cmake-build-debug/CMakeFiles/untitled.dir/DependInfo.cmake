@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/ZindyBite/Desktop/code/C/untitled/loop.cpp" "C:/Users/ZindyBite/Desktop/code/C/untitled/cmake-build-debug/CMakeFiles/untitled.dir/loop.cpp.obj"
+  "C:/Users/ZindyBite/Desktop/code/practice/C/untitled/loop.cpp" "C:/Users/ZindyBite/Desktop/code/practice/C/untitled/cmake-build-debug/CMakeFiles/untitled.dir/loop.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

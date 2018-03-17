@@ -1,3 +1,3 @@
-C:/Users/ZindyBite/Desktop/code/C/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/ZindyBite/Desktop/code/C/project1/cmake-build-debug/CMakeFiles/project1.dir
-C:/Users/ZindyBite/Desktop/code/C/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ZindyBite/Desktop/code/practice/C/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ZindyBite/Desktop/code/practice/C/project1/cmake-build-debug/CMakeFiles/project1.dir
+C:/Users/ZindyBite/Desktop/code/practice/C/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
