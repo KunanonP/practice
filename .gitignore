@@ -4,3 +4,5 @@ project1/Lib/*
 project1/Scripts/*
 project1/pyvenv.cfg
 /Java/src
+/Go/bin
+/Go/src
